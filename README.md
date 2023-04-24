@@ -1,4 +1,4 @@
-# 使用 Vercel 反代 openai （图文教程）
+# 使用 Vercel 反代 openai
 
 ## 简介
 
